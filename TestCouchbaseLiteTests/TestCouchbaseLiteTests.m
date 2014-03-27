@@ -2,8 +2,8 @@
 //  TestCouchbaseLiteTests.m
 //  TestCouchbaseLiteTests
 //
-//  Created by David Quon on 11/12/13.
-//  Copyright (c) 2013 David Quon. All rights reserved.
+//  Created by David Quon on 3/26/14.
+//  Copyright (c) 2014 David Quon. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

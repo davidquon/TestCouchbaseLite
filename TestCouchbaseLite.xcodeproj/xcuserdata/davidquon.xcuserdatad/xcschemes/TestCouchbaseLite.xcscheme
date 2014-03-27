@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0500"
+   LastUpgradeVersion = "0510"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3BAAF69E1833034E00002D4A"
+               BlueprintIdentifier = "3BC4BC8B18E39F8700D2F5E8"
                BuildableName = "TestCouchbaseLite.app"
                BlueprintName = "TestCouchbaseLite"
                ReferencedContainer = "container:TestCouchbaseLite.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3BAAF6B91833034E00002D4A"
+               BlueprintIdentifier = "3BC4BCAF18E39F8700D2F5E8"
                BuildableName = "TestCouchbaseLiteTests.xctest"
                BlueprintName = "TestCouchbaseLiteTests"
                ReferencedContainer = "container:TestCouchbaseLite.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3BAAF69E1833034E00002D4A"
+            BlueprintIdentifier = "3BC4BC8B18E39F8700D2F5E8"
             BuildableName = "TestCouchbaseLite.app"
             BlueprintName = "TestCouchbaseLite"
             ReferencedContainer = "container:TestCouchbaseLite.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3BAAF69E1833034E00002D4A"
+            BlueprintIdentifier = "3BC4BC8B18E39F8700D2F5E8"
             BuildableName = "TestCouchbaseLite.app"
             BlueprintName = "TestCouchbaseLite"
             ReferencedContainer = "container:TestCouchbaseLite.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3BAAF69E1833034E00002D4A"
+            BlueprintIdentifier = "3BC4BC8B18E39F8700D2F5E8"
             BuildableName = "TestCouchbaseLite.app"
             BlueprintName = "TestCouchbaseLite"
             ReferencedContainer = "container:TestCouchbaseLite.xcodeproj">
